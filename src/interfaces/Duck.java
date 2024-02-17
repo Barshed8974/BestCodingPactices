@@ -1,7 +1,5 @@
 package interfaces;
 
-import interfaces.FlyBehavior;
-import interfaces.QuackBehavior;
 
 public abstract class Duck {
     FlyBehavior flyBehavior;
